@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "frailtyROC"]
+	path = frailtyROC
+	url = https://github.com/cran/frailtyROC
 [submodule "tdPRC"]
 	path = tdPRC
 	url = https://github.com/cran/tdPRC
